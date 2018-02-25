@@ -1,4 +1,12 @@
 name: gradeInflation
+title: gradeInflation
+username:
 account: stevenranney
-bundleId: 106580
-url: http://stevenranney.shinyapps.io/gradeInflation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 27298
+bundleId: 1239248
+url: https://stevenranney.shinyapps.io/gradeInflation/
+when: 1519587206.65549
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,5 +1,5 @@
 
-gpaData <- read.csv("C:/Users/Steven Harris Ranney/Documents/GitHub/shinyApps/shinyApps/gpa/data/gpaData.csv", 
+gpaData <- read.csv("data/gpaData.csv", 
                       header = T)
                       
 #for(i in 1:2){
